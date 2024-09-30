@@ -30,5 +30,5 @@ This is a simple SSI for CSC360, to compile and run this program: Clone the repo
 - When a background job is finished, my ssi outputs <pid>: <program> <parameters> has terminated. when processing the next user input.
 - My ssi can update background jobs correctly. For example, terminated background jobs should not appear in the bglist output.
 
-##Yea thats right, I took an operating systems course. This is the proof
+## Yea thats right, I took an operating systems course. This is the proof
 - I'm going to add the code after the due date for this assignemnt has passed...
